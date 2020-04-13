@@ -1,0 +1,2 @@
+﻿1)Testi Çalıştırmadan Apideki Connection string ile  UnitTest Projesinde App.config Dosyasındaki connection string aynı olmalıdır.
+

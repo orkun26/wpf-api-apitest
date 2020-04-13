@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TazeDirektApi2", "TazeDirektApi2\TazeDirektApi2.csproj", "{B3102050-9FA7-49E1-B60F-CE0B4AF66476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TazeDirektApi.Tests", "TazeDirektApi.Tests\TazeDirektApi.Tests.csproj", "{78E22C86-50C3-4482-A21E-57DF79714367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3102050-9FA7-49E1-B60F-CE0B4AF66476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3102050-9FA7-49E1-B60F-CE0B4AF66476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3102050-9FA7-49E1-B60F-CE0B4AF66476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3102050-9FA7-49E1-B60F-CE0B4AF66476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E22C86-50C3-4482-A21E-57DF79714367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E22C86-50C3-4482-A21E-57DF79714367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E22C86-50C3-4482-A21E-57DF79714367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E22C86-50C3-4482-A21E-57DF79714367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56DB0C29-D4B5-44E3-A73A-78B56E5A0377}
+	EndGlobalSection
+EndGlobal
